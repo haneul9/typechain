@@ -1,0 +1,24 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Typescript Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneul9/typechain.git"
+  },
+  "author": "hashcoder <haneul9@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haneul9/typechain/issues"
+  },
+  "homepage": "https://github.com/haneul9/typechain#readme",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
