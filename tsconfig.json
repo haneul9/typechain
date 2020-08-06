@@ -3,8 +3,9 @@
     "module": "commonjs",
     "target": "ES2015",
     "strict": true,
-    "sourceMap": true
+    "sourceMap": true,
+    "outDir": "dist"
   },
-  "include": ["index.ts"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
