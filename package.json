@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/haneul9/typechain#readme",
   "dependencies": {
+    "@types/crypto-js": "^3.1.47",
+    "crypto-js": "^4.0.0",
     "tsc-watch": "^4.2.9",
     "typescript": "^3.9.7"
   }
